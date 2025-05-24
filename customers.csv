@@ -1,0 +1,301 @@
+CustomerID,CustomerType,Region,Size,ContractType
+C0000,Tannery,North America,Large,Annual
+C0001,Automotive,Asia,Medium,Annual
+C0002,Footwear,North America,Small,Project-Based
+C0003,Automotive,North America,Large,Annual
+C0004,Tannery,South America,Small,Ad-Hoc
+C0005,Automotive,North America,Large,Annual
+C0006,Automotive,Europe,Medium,Project-Based
+C0007,Tannery,Europe,Small,Ad-Hoc
+C0008,Tannery,Europe,Small,Ad-Hoc
+C0009,Footwear,Asia,Large,Project-Based
+C0010,Automotive,Europe,Small,Annual
+C0011,Tannery,Asia,Large,Project-Based
+C0012,Tannery,Europe,Medium,Annual
+C0013,Automotive,North America,Small,Annual
+C0014,Tannery,South America,Large,Ad-Hoc
+C0015,Footwear,Europe,Small,Project-Based
+C0016,Footwear,Asia,Large,Ad-Hoc
+C0017,Automotive,Asia,Large,Project-Based
+C0018,Footwear,South America,Large,Project-Based
+C0019,Tannery,Europe,Medium,Ad-Hoc
+C0020,Tannery,North America,Small,Project-Based
+C0021,Tannery,Europe,Medium,Project-Based
+C0022,Tannery,Europe,Large,Annual
+C0023,Automotive,South America,Large,Project-Based
+C0024,Footwear,Europe,Medium,Project-Based
+C0025,Footwear,North America,Medium,Ad-Hoc
+C0026,Tannery,Asia,Small,Ad-Hoc
+C0027,Automotive,South America,Large,Project-Based
+C0028,Tannery,North America,Medium,Annual
+C0029,Tannery,Asia,Large,Annual
+C0030,Automotive,South America,Large,Ad-Hoc
+C0031,Automotive,South America,Small,Project-Based
+C0032,Tannery,Asia,Small,Project-Based
+C0033,Footwear,Asia,Small,Annual
+C0034,Tannery,North America,Medium,Annual
+C0035,Footwear,Europe,Large,Annual
+C0036,Footwear,Europe,Medium,Ad-Hoc
+C0037,Automotive,Europe,Medium,Project-Based
+C0038,Automotive,Europe,Small,Ad-Hoc
+C0039,Tannery,Europe,Large,Project-Based
+C0040,Footwear,North America,Large,Ad-Hoc
+C0041,Footwear,South America,Small,Project-Based
+C0042,Tannery,North America,Large,Annual
+C0043,Tannery,North America,Small,Annual
+C0044,Tannery,North America,Medium,Annual
+C0045,Automotive,South America,Medium,Ad-Hoc
+C0046,Tannery,North America,Small,Annual
+C0047,Tannery,North America,Medium,Project-Based
+C0048,Footwear,South America,Medium,Ad-Hoc
+C0049,Tannery,North America,Small,Project-Based
+C0050,Footwear,Europe,Medium,Ad-Hoc
+C0051,Footwear,Asia,Large,Project-Based
+C0052,Automotive,North America,Medium,Project-Based
+C0053,Tannery,Asia,Small,Ad-Hoc
+C0054,Tannery,North America,Large,Ad-Hoc
+C0055,Footwear,North America,Large,Annual
+C0056,Automotive,Europe,Medium,Annual
+C0057,Automotive,South America,Large,Project-Based
+C0058,Tannery,Asia,Small,Project-Based
+C0059,Footwear,South America,Large,Project-Based
+C0060,Tannery,Europe,Medium,Ad-Hoc
+C0061,Tannery,Europe,Medium,Ad-Hoc
+C0062,Tannery,Asia,Large,Annual
+C0063,Tannery,South America,Small,Project-Based
+C0064,Footwear,Europe,Small,Annual
+C0065,Automotive,North America,Medium,Ad-Hoc
+C0066,Tannery,North America,Medium,Ad-Hoc
+C0067,Tannery,North America,Small,Ad-Hoc
+C0068,Tannery,South America,Large,Annual
+C0069,Tannery,North America,Large,Ad-Hoc
+C0070,Automotive,North America,Large,Project-Based
+C0071,Automotive,Europe,Large,Annual
+C0072,Automotive,Europe,Small,Ad-Hoc
+C0073,Automotive,North America,Medium,Annual
+C0074,Tannery,North America,Medium,Annual
+C0075,Footwear,Europe,Large,Ad-Hoc
+C0076,Automotive,Asia,Small,Ad-Hoc
+C0077,Automotive,South America,Small,Annual
+C0078,Tannery,South America,Large,Annual
+C0079,Tannery,Europe,Large,Ad-Hoc
+C0080,Tannery,South America,Large,Project-Based
+C0081,Tannery,Europe,Medium,Annual
+C0082,Footwear,Europe,Large,Annual
+C0083,Footwear,Europe,Medium,Project-Based
+C0084,Automotive,Europe,Small,Ad-Hoc
+C0085,Footwear,Asia,Small,Ad-Hoc
+C0086,Automotive,North America,Medium,Project-Based
+C0087,Automotive,North America,Medium,Ad-Hoc
+C0088,Footwear,Asia,Medium,Ad-Hoc
+C0089,Automotive,South America,Medium,Annual
+C0090,Tannery,South America,Large,Annual
+C0091,Automotive,North America,Small,Annual
+C0092,Tannery,South America,Large,Project-Based
+C0093,Footwear,North America,Medium,Ad-Hoc
+C0094,Footwear,North America,Large,Ad-Hoc
+C0095,Automotive,Asia,Large,Annual
+C0096,Tannery,South America,Small,Annual
+C0097,Automotive,Asia,Large,Project-Based
+C0098,Footwear,North America,Small,Ad-Hoc
+C0099,Automotive,North America,Medium,Project-Based
+C0100,Automotive,North America,Large,Ad-Hoc
+C0101,Tannery,Europe,Medium,Project-Based
+C0102,Footwear,Europe,Small,Annual
+C0103,Automotive,Europe,Medium,Project-Based
+C0104,Tannery,Asia,Medium,Project-Based
+C0105,Automotive,North America,Small,Annual
+C0106,Tannery,South America,Medium,Ad-Hoc
+C0107,Tannery,Asia,Medium,Ad-Hoc
+C0108,Automotive,Asia,Medium,Annual
+C0109,Footwear,Asia,Large,Project-Based
+C0110,Footwear,South America,Medium,Project-Based
+C0111,Tannery,North America,Small,Project-Based
+C0112,Footwear,Europe,Large,Ad-Hoc
+C0113,Tannery,North America,Large,Project-Based
+C0114,Footwear,North America,Small,Ad-Hoc
+C0115,Automotive,Asia,Medium,Project-Based
+C0116,Footwear,Asia,Large,Annual
+C0117,Tannery,Asia,Large,Annual
+C0118,Tannery,Europe,Large,Ad-Hoc
+C0119,Footwear,Europe,Medium,Ad-Hoc
+C0120,Automotive,Europe,Large,Annual
+C0121,Tannery,North America,Small,Annual
+C0122,Tannery,Asia,Medium,Project-Based
+C0123,Tannery,South America,Small,Annual
+C0124,Tannery,North America,Small,Ad-Hoc
+C0125,Tannery,Europe,Large,Annual
+C0126,Automotive,South America,Large,Ad-Hoc
+C0127,Footwear,South America,Large,Ad-Hoc
+C0128,Automotive,Asia,Small,Project-Based
+C0129,Automotive,South America,Medium,Project-Based
+C0130,Tannery,Europe,Large,Project-Based
+C0131,Automotive,Asia,Large,Project-Based
+C0132,Tannery,South America,Small,Annual
+C0133,Automotive,Asia,Medium,Project-Based
+C0134,Tannery,South America,Small,Annual
+C0135,Tannery,North America,Large,Project-Based
+C0136,Automotive,North America,Small,Project-Based
+C0137,Automotive,Europe,Large,Ad-Hoc
+C0138,Footwear,North America,Medium,Annual
+C0139,Footwear,North America,Small,Ad-Hoc
+C0140,Footwear,North America,Large,Project-Based
+C0141,Automotive,South America,Large,Annual
+C0142,Automotive,South America,Large,Project-Based
+C0143,Tannery,Asia,Large,Ad-Hoc
+C0144,Footwear,South America,Small,Annual
+C0145,Tannery,North America,Large,Ad-Hoc
+C0146,Tannery,South America,Small,Project-Based
+C0147,Tannery,Europe,Large,Project-Based
+C0148,Tannery,Asia,Small,Project-Based
+C0149,Footwear,Asia,Small,Annual
+C0150,Tannery,South America,Large,Ad-Hoc
+C0151,Automotive,North America,Large,Ad-Hoc
+C0152,Automotive,Asia,Large,Project-Based
+C0153,Automotive,Europe,Large,Ad-Hoc
+C0154,Footwear,Europe,Medium,Annual
+C0155,Tannery,Asia,Large,Project-Based
+C0156,Footwear,North America,Large,Project-Based
+C0157,Tannery,North America,Large,Project-Based
+C0158,Footwear,South America,Small,Annual
+C0159,Footwear,South America,Large,Project-Based
+C0160,Tannery,Asia,Small,Project-Based
+C0161,Footwear,South America,Small,Project-Based
+C0162,Tannery,South America,Small,Project-Based
+C0163,Automotive,South America,Small,Ad-Hoc
+C0164,Automotive,Europe,Medium,Project-Based
+C0165,Automotive,South America,Large,Annual
+C0166,Footwear,Asia,Small,Project-Based
+C0167,Automotive,North America,Large,Project-Based
+C0168,Tannery,South America,Small,Ad-Hoc
+C0169,Automotive,North America,Medium,Project-Based
+C0170,Automotive,South America,Small,Ad-Hoc
+C0171,Footwear,Asia,Large,Annual
+C0172,Tannery,Europe,Large,Ad-Hoc
+C0173,Footwear,Asia,Medium,Project-Based
+C0174,Footwear,Europe,Large,Annual
+C0175,Tannery,South America,Large,Project-Based
+C0176,Footwear,South America,Small,Ad-Hoc
+C0177,Tannery,Europe,Large,Annual
+C0178,Automotive,Asia,Small,Annual
+C0179,Tannery,Asia,Medium,Ad-Hoc
+C0180,Tannery,Europe,Large,Ad-Hoc
+C0181,Tannery,South America,Small,Annual
+C0182,Footwear,Europe,Large,Annual
+C0183,Tannery,South America,Small,Ad-Hoc
+C0184,Tannery,Europe,Medium,Project-Based
+C0185,Tannery,South America,Small,Annual
+C0186,Automotive,Europe,Large,Ad-Hoc
+C0187,Tannery,North America,Small,Project-Based
+C0188,Footwear,South America,Large,Annual
+C0189,Tannery,Asia,Medium,Annual
+C0190,Tannery,Europe,Small,Ad-Hoc
+C0191,Automotive,Asia,Large,Project-Based
+C0192,Tannery,Europe,Large,Annual
+C0193,Footwear,Asia,Large,Project-Based
+C0194,Tannery,Asia,Small,Project-Based
+C0195,Footwear,Europe,Small,Annual
+C0196,Automotive,Europe,Small,Project-Based
+C0197,Tannery,Asia,Medium,Annual
+C0198,Automotive,Asia,Large,Project-Based
+C0199,Tannery,Asia,Large,Annual
+C0200,Footwear,South America,Medium,Ad-Hoc
+C0201,Automotive,South America,Medium,Annual
+C0202,Tannery,North America,Small,Annual
+C0203,Footwear,South America,Small,Annual
+C0204,Automotive,South America,Small,Project-Based
+C0205,Tannery,Europe,Small,Ad-Hoc
+C0206,Automotive,North America,Small,Project-Based
+C0207,Tannery,North America,Small,Project-Based
+C0208,Footwear,South America,Medium,Annual
+C0209,Footwear,Europe,Medium,Project-Based
+C0210,Automotive,Europe,Medium,Annual
+C0211,Automotive,North America,Large,Ad-Hoc
+C0212,Tannery,Europe,Large,Project-Based
+C0213,Footwear,Asia,Small,Project-Based
+C0214,Tannery,South America,Medium,Project-Based
+C0215,Footwear,Asia,Large,Annual
+C0216,Automotive,North America,Large,Annual
+C0217,Tannery,North America,Medium,Project-Based
+C0218,Tannery,Europe,Large,Project-Based
+C0219,Footwear,Europe,Large,Ad-Hoc
+C0220,Footwear,North America,Medium,Ad-Hoc
+C0221,Footwear,North America,Large,Ad-Hoc
+C0222,Automotive,Asia,Medium,Ad-Hoc
+C0223,Tannery,Asia,Large,Ad-Hoc
+C0224,Footwear,Europe,Medium,Annual
+C0225,Automotive,Asia,Large,Ad-Hoc
+C0226,Footwear,Europe,Large,Ad-Hoc
+C0227,Tannery,Europe,Medium,Project-Based
+C0228,Footwear,South America,Large,Annual
+C0229,Tannery,Europe,Medium,Ad-Hoc
+C0230,Automotive,Asia,Medium,Ad-Hoc
+C0231,Automotive,North America,Large,Ad-Hoc
+C0232,Footwear,North America,Small,Project-Based
+C0233,Tannery,Asia,Large,Project-Based
+C0234,Tannery,North America,Small,Project-Based
+C0235,Tannery,Europe,Small,Ad-Hoc
+C0236,Footwear,North America,Large,Project-Based
+C0237,Tannery,Asia,Small,Ad-Hoc
+C0238,Tannery,North America,Medium,Annual
+C0239,Tannery,Europe,Medium,Ad-Hoc
+C0240,Tannery,Europe,Small,Project-Based
+C0241,Footwear,Asia,Medium,Annual
+C0242,Footwear,Asia,Large,Ad-Hoc
+C0243,Tannery,Asia,Medium,Annual
+C0244,Tannery,South America,Small,Annual
+C0245,Automotive,South America,Large,Annual
+C0246,Automotive,Europe,Medium,Ad-Hoc
+C0247,Tannery,South America,Large,Project-Based
+C0248,Tannery,South America,Small,Ad-Hoc
+C0249,Automotive,North America,Medium,Project-Based
+C0250,Automotive,South America,Large,Ad-Hoc
+C0251,Tannery,North America,Large,Ad-Hoc
+C0252,Footwear,Asia,Medium,Ad-Hoc
+C0253,Footwear,North America,Large,Project-Based
+C0254,Tannery,North America,Large,Ad-Hoc
+C0255,Tannery,Asia,Small,Annual
+C0256,Automotive,Asia,Small,Ad-Hoc
+C0257,Automotive,Europe,Small,Annual
+C0258,Footwear,Europe,Small,Project-Based
+C0259,Tannery,Europe,Small,Project-Based
+C0260,Automotive,Europe,Small,Ad-Hoc
+C0261,Footwear,North America,Medium,Ad-Hoc
+C0262,Footwear,North America,Small,Ad-Hoc
+C0263,Footwear,Europe,Large,Annual
+C0264,Automotive,South America,Medium,Project-Based
+C0265,Automotive,Europe,Large,Annual
+C0266,Tannery,South America,Small,Annual
+C0267,Tannery,Asia,Small,Ad-Hoc
+C0268,Footwear,North America,Large,Ad-Hoc
+C0269,Footwear,North America,Large,Annual
+C0270,Automotive,South America,Large,Annual
+C0271,Automotive,Europe,Medium,Ad-Hoc
+C0272,Tannery,North America,Small,Ad-Hoc
+C0273,Tannery,South America,Large,Annual
+C0274,Tannery,Asia,Small,Ad-Hoc
+C0275,Automotive,Asia,Large,Ad-Hoc
+C0276,Footwear,North America,Small,Annual
+C0277,Tannery,Europe,Medium,Annual
+C0278,Tannery,South America,Small,Project-Based
+C0279,Automotive,North America,Large,Annual
+C0280,Tannery,Asia,Small,Ad-Hoc
+C0281,Footwear,Europe,Medium,Annual
+C0282,Automotive,South America,Medium,Annual
+C0283,Tannery,North America,Small,Annual
+C0284,Tannery,South America,Large,Project-Based
+C0285,Automotive,Europe,Medium,Project-Based
+C0286,Automotive,Europe,Medium,Ad-Hoc
+C0287,Tannery,Asia,Small,Project-Based
+C0288,Footwear,Europe,Medium,Annual
+C0289,Automotive,North America,Medium,Project-Based
+C0290,Footwear,South America,Large,Annual
+C0291,Tannery,Europe,Large,Project-Based
+C0292,Footwear,Europe,Large,Project-Based
+C0293,Tannery,North America,Small,Project-Based
+C0294,Tannery,South America,Medium,Annual
+C0295,Tannery,South America,Small,Project-Based
+C0296,Tannery,Asia,Medium,Annual
+C0297,Footwear,Asia,Medium,Annual
+C0298,Tannery,South America,Medium,Ad-Hoc
+C0299,Tannery,North America,Large,Project-Based
